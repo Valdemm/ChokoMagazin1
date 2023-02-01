@@ -8,7 +8,7 @@ body {
 }
 
 a {
-  color: #cda45e;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -173,7 +173,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(12, 11, 9, 0.6);
+  background: rgba(255, 218, 145, 0.6);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
@@ -183,7 +183,7 @@ h6 {
 
 #header.header-scrolled {
   top: 0;
-  background: rgba(0, 0, 0, 0.85);
+  background: rgba(255, 218, 145, 0.6);
   border-bottom: 1px solid #37332a;
 }
 
@@ -292,7 +292,7 @@ h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #fff;
+  background: rgba(255, 218, 145, 0.6) f;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
@@ -375,7 +375,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(255, 218, 145, 0.6));
   transition: 0.3s;
   z-index: 999;
 }
@@ -466,7 +466,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(255, 218, 145, 0.6));
   position: absolute;
   bottom: 0;
   top: 0;
@@ -577,7 +577,7 @@ h6 {
   border: 5px solid rgba(205, 164, 94, 0.7);
   top: -15%;
   left: -15%;
-  background: rgba(198, 16, 0, 0);
+  background: rgba(255, 218, 145, 0.6);
 }
 
 #hero .play-btn:hover::after {
@@ -671,7 +671,7 @@ section {
 }
 
 .section-bg {
-  background-color: #1a1814;
+  background-color: rgba(255, 218, 145, 0.6);
 }
 
 .section-title {
